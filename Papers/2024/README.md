@@ -14,8 +14,9 @@
 
 | 论文标题 | 期刊/会议 | PDF | 项目地址 |
 |----------|--------------|-----|-----------|
-| MCFNet：用于高光谱与LiDAR数据联合分类的多尺度跨域融合网络 | TGRS | [PDF](https://ieeexplore.ieee.org/document/10989501) | [项目主页](https://github.com/MSFLabX/MCFNet) |
-| 用于高光谱与LiDAR分类的由粗到细高阶网络 | TGRS | [PDF](https://ieeexplore.ieee.org/document/10942399) | [项目主页](https://github.com/RSIP-NJUPT/CHNet) |
+| 面向高光谱与 LiDAR 数据联合分类的多信息协同融合网络（MICF-Net） | TGRS | [PDF](https://ieeexplore.ieee.org/document/10602541) | [Code](https://github.com/TangXu-Group/Hyperspectral-Images-Classification/tree/main/MICF-Net) |
+| 基于 Mamba 的高光谱与 LiDAR 数据联合分类方法（HLMamba） | TGRS | [PDF](https://ieeexplore.ieee.org/abstract/document/10679212) | [Code](https://github.com/Dilingliao/HLMamba) |
+
 
 
 
