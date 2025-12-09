@@ -13,17 +13,17 @@ These datasets are widely used in recent research (mainly from 2013 to present) 
 这些数据集在近年来（主要为 2013 年至今）的研究中被广泛用于：
 - 多模态融合算法对比  
 - 公平评测与论文复现   
-
 ---
 
 ## 🗂️ Dataset List | 常用数据集一览
 
 | Dataset | Scene Type | Modalities | Classes | Typical Usage |
 |----------|------------|------------|---------|----------------|
-| Houston 2013 | Urban | HSI + LiDAR | 15 | Urban land-cover classification |
-| Trento | Rural | HSI + LiDAR | 6 | Vegetation & land-cover mapping |
-| MUUFL | Urban | HSI + LiDAR | 11 | Urban semantic classification |
-| Augsburg | Urban | HSI + LiDAR | 7 | Urban object classification |
+| [Houston 2013](#-1-houston-2013-dataset) | Urban | HSI + LiDAR | 15 | Urban land-cover classification |
+| [Trento](#-2-trento-dataset) | Rural | HSI + LiDAR | 6 | Vegetation & land-cover mapping |
+| [MUUFL](#-3-muufl-dataset) | Urban | HSI + LiDAR | 11 | Urban semantic classification |
+| [Augsburg](#-4-augsburg-dataset) | Urban | HSI + LiDAR | 7 | Urban object classification |
+
 
 | 数据集 | 场景类型 | 数据模态 | 类别数 | 典型用途 |
 |--------|----------|----------|--------|----------|
