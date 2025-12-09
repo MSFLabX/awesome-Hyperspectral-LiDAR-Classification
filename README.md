@@ -25,7 +25,7 @@ Hyperspectral images provide rich **spectral information**, while LiDAR offers a
 
 This repository is a long-term literature and benchmark collection for  
 **Hyperspectral Image and LiDAR Data Fusion for Classification**,  
-mainly focusing on **recent works published from 2019 to present**.
+mainly focusing on **recent works published from 2022 to present**.
 
 本仓库长期维护，用于系统收集与整理 **2022 年至今**  
 **高光谱影像与 LiDAR 数据融合分类方向**的：
