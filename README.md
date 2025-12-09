@@ -31,7 +31,6 @@ mainly focusing on **recent works published from 2019 to present**.
 **高光谱影像与 LiDAR 数据融合分类方向**的：
 - 学术论文（Journal & Conference）
 - 公开数据集（Benchmark Datasets）
-- 开源代码（Open-source Implementations）
 
 ---
 ## 📂 Repository Structure | 仓库结构说明
