@@ -5,7 +5,7 @@
 | Title | Journal / Conference | PDF | Project / Code |
 |-------|----------------------|-----|----------------|
 | Multiple Information Collaborative Fusion Network for Joint Classification of Hyperspectral and LiDAR Data | TGRS | [PDF](https://ieeexplore.ieee.org/document/10602541) | [GitHub](https://github.com/TangXu-Group/Hyperspectral-Images-Classification/tree/main/MICF-Net) |
-|  | TGRS | [PDF]() | [GitHub]() |
+| Joint Classification of Hyperspectral and LiDAR Data Based on Mamba | TGRS | [PDF](https://ieeexplore.ieee.org/abstract/document/10679212) | [GitHub](https://github.com/Dilingliao/HLMamba) |
 |  | IGARSS | [PDF](https://ieeexplore.ieee.org/xxxx) | [GitHub]() |
 
 ---
