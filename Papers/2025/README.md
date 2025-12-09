@@ -15,9 +15,9 @@
 
 | 论文标题 | 期刊/会议 | PDF | 项目地址 |
 |----------|--------------|-----|-----------|
-| MCFNet：用于高光谱与LiDAR数据联合分类的多尺度跨域融合网络 | TGRS | [PDF](https://ieeexplore.ieee.org/document/10989501) | [项目主页](https://github.com/MSFLabX/MCFNet) |
-| 用于高光谱与LiDAR分类的由粗到细高阶网络 | TGRS | [PDF](https://ieeexplore.ieee.org/document/10942399) | [项目主页](https://github.com/RSIP-NJUPT/CHNet) |
-| CMFNet：用于高光谱与LiDAR数据分类的跨Mamba融合网络 | TGRS | [PDF](https://ieeexplore.ieee.org/abstract/document/11165388) | [项目主页](https://github.com/li-zi-qi/CMFNet) |
-| MHCMamba：用于高光谱与LiDAR图像分类的多尺度混合卷积Mamba网络 | JSTARS | [PDF](https://ieeexplore.ieee.org/abstract/document/11143945) | [项目主页](https://github.com/li-zi-qi/MHCMamba) |
+| MCFNet：用于高光谱与LiDAR数据联合分类的多尺度跨域融合网络 | TGRS | [PDF](https://ieeexplore.ieee.org/document/10989501) | [项目地址](https://github.com/MSFLabX/MCFNet) |
+| 用于高光谱与LiDAR分类的由粗到细高阶网络 | TGRS | [PDF](https://ieeexplore.ieee.org/document/10942399) | [项目地址](https://github.com/RSIP-NJUPT/CHNet) |
+| CMFNet：用于高光谱与LiDAR数据分类的跨Mamba融合网络 | TGRS | [PDF](https://ieeexplore.ieee.org/abstract/document/11165388) | [项目地址](https://github.com/li-zi-qi/CMFNet) |
+| MHCMamba：用于高光谱与LiDAR图像分类的多尺度混合卷积Mamba网络 | JSTARS | [PDF](https://ieeexplore.ieee.org/abstract/document/11143945) | [项目地址](https://github.com/li-zi-qi/MHCMamba) |
 
 
