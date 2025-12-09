@@ -7,6 +7,7 @@
 | MCFNet: Multiscale Cross-Domain Fusion Network for HSI and LiDAR Data Joint Classification | TGRS | [PDF](https://ieeexplore.ieee.org/document/10989501) | [GitHub](https://github.com/MSFLabX/MCFNet) |
 | Coarse-to-Fine High-Order Network for Hyperspectral and LiDAR Classification | TGRS | [PDF](https://ieeexplore.ieee.org/document/10942399) | [GitHub](https://github.com/RSIP-NJUPT/CHNet) |
 | CMFNet: Cross Mamba Fusion Network for Hyperspectral and LiDAR Data Classification | TGRS | [PDF](https://ieeexplore.ieee.org/abstract/document/11165388) | [GitHub](https://github.com/li-zi-qi/CMFNet) |
+| MHCMamba: Multiscale Hybrid Convolution Mamba Network for Hyperspectral and LiDAR Image Classification | TGRS | [PDF](https://ieeexplore.ieee.org/abstract/document/11143945) | [GitHub](https://github.com/li-zi-qi/MHCMamba) |
 
 ---
 
